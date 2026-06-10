@@ -1,4 +1,4 @@
-# OT-Scada-Security-Lab
+# OT/SCADA Security Monitoring Lab using OpenPLC, SCADA, Modbus TCP and Wazuh SIEM on Google Cloud Platform.
 
 ## Overview
 
@@ -36,14 +36,15 @@ Security Monitoring & Alerting
 
 ## Technologies Used
 
-* OpenPLC
-* Modbus TCP
-* Wazuh SIEM
-* Ubuntu Linux
-* Google Cloud Platform (GCP)
-* File Integrity Monitoring (FIM)
-* Vulnerability Assessment
-
+- OpenPLC (Industrial PLC Simulation)
+- SCADA Monitoring Environment
+- Modbus TCP Protocol
+- Wazuh SIEM
+- Ubuntu Linux
+- Google Cloud Platform (GCP)
+- File Integrity Monitoring (FIM)
+- Vulnerability Detection
+  
 ---
 
 ## Implemented Security Controls
