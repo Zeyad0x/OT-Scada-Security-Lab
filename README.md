@@ -102,7 +102,7 @@ Collected telemetry includes:
 
 ![Vulnerability Dashboard](screenshots/WhatsApp%20Image%202026-06-09%20at%203.17.40%20PM.jpeg)
 
-### Endpoint Security Monitoring
+### SCADA Monitoring Dashboard
 
 ![Endpoint Monitoring](screenshots/WhatsApp%20Image%202026-06-09%20at%203.17.40%20PM%20\(1\).jpeg)
 
